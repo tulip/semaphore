@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "commonjs",
+    "declaration": true,
+    "strict": true,
+    "outDir": "./dist",
+    "composite": true,
+    "preserveSymlinks": false,
+    "types": ["jest"]
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"],
+}
