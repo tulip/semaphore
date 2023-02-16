@@ -7,7 +7,7 @@
     "outDir": "./dist",
     "composite": true,
     "preserveSymlinks": false,
-    "rootDir": "src",
+    "rootDir": "./src",
     "types": ["jest"]
   },
   "include": ["src"],
